@@ -2,7 +2,7 @@
 
 ### Implementation of [Elo's rating algorithm](https://en.wikipedia.org/wiki/Elo_rating_system) in PHP.
 
->The final rating is based on the current scores(win or loss) of A and B, and the one with highesr current rating loses more points to the other when lost,than he could gain if wins.same the other way.
+>The final rating is based on the current scores(win or loss) of A and B, and the one with highest current rating loses more points to the other when lost,than he could gain if wins.same the other way.
 
 
 for example,
